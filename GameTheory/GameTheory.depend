@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1667247206 source:e:\an3\sem1\ai\gametheory\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<stdlib.h>
+	<list>
+
