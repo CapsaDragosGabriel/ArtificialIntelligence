@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1669644170 source:e:\an3\sem1\ai\reinforcementlearningc\src\state.cpp
+	"state.h"
+
+1669644169 e:\an3\sem1\ai\reinforcementlearningc\include\state.h
+
+1670258305 source:e:\an3\sem1\ai\reinforcementlearningc\main.cpp
+	<iostream>
+	<iostream>
+	<fstream>
+	<string>
+	<map>
+	<cstdlib>
+	<math.h>
+	<tgmath.h>
+	<bits/stdc++.h>
+

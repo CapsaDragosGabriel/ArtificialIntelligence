@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1669713961 source:e:\an3\sem1\ai\netelereuronale\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<map>
+	<cstdlib>
+	<math.h>
+	<tgmath.h>
+	<bits/stdc++.h>
+

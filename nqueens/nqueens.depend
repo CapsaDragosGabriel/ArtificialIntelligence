@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1666646934 source:e:\an3\sem1\ai\nqueens\main.cpp
+	<iostream>
+	<fstream>
+	<list>
+	<map>
+
